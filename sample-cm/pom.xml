@@ -54,7 +54,7 @@
 				<configuration>
 					<instructions>
 						<Export-Package></Export-Package>
-						<Import-Package>*</Import-Package>
+						<Import-Package>org.jasypt.encryption.pbe;*</Import-Package>
 					</instructions>
 				</configuration>
 			</plugin>
